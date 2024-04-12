@@ -2,9 +2,11 @@
 
 ## 1 Introduction
 
+
+This repository is for validating the TacVar framework. Our developments have migrated to the PerfHound tool, constructing a more comprehensive visual system for hunting performance variability. Hence, this repo will only get documentation and bugfix updates..
+
 TVkern generates run time variations which can be configured by given statistical distributions. By using different timing methods to measure the run time of the specific distribution, one can investigate the instability caused by timing fluctuations in parallel short-interval timing. Furthermore, based on the timing fluctuation distribution sample, TVfilt can help estimate the real distribution of timing results by decoupling the timing fluctuation from measurement results.
 
-This repository is for validating the TacVar framework. The methodology has been integrated in PerfHound.
 
 ## 2 A simple use case
 
